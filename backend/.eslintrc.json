@@ -27,6 +27,7 @@
                 "argsIgnorePattern": "_"
             }
         ],
+        "semi": "off",
         "camelcase": "off",
         "class-methods-use-this": "off",
         "import/extensions": [
